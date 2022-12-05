@@ -8,7 +8,7 @@ class Home04 extends Component {
                 <div id="mobile-menu-overlay" />
                 <Header />
                 <div id="content" className="content">
-                    <div className="homepage-personal">
+                    <div className="homepage-personal"> 
                         <Banner />
                         <About />
                         <Specilizing />
