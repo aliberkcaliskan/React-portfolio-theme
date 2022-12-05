@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Banner, ContentBlog, Footer, Sidebar, Header } from '../layouts/blog/index';
 
 class Blog extends Component {
+    
     render() {
         return (
             <div className="counter-scroll">
